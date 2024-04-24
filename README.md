@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @perman03, UI developer jr.<br>👀 I’m interested in UX/UI and Web Development with AMP Stack & React<br>🌱 I’m currently learning React JS, PHP, Laravel, Apache and a little bit of mobile dev (dart/flutter).<br>💞️ I’m looking to collaborate on UX/UI and Web projects.<br>❤  I love Call Of Duty Warzone, Fortnite, Red Dead Redemption 2 & Overwatch 2. In my free time I'm writer.
+👋 Hi, I’m @perman03, QA automation tester.<br>👀 I’m interested in testing automation, UX/UI, Web Development and DevOps<br>🌱 I’m currently learning React JS, Java, Astro, Java, Selenium and a little bit of mobile dev (dart/flutter).<br>💞️ I’m looking to collaborate on automation testing and Web projects.<br>❤  I love Call Of Duty Warzone, Fortnite, Red Dead Redemption 2 & Overwatch 2. In my free time I'm writer.
 
 
 ## 🌐 Socials:
